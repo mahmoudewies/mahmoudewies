@@ -18,9 +18,9 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 - ⚡ Quote: There is always time. You just have to find it.
 - 📫 How to reach me:
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/mahmoudewies) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/PrifyPhilip) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/mahmoud-ewis-29a527246/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](mahmoudewis.ai@gmail.com) |||
-|---|---|---|---|---|---|
-
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/mahmoudewies) | | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/mahmoud-ewis-29a527246/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](mahmoudewis.ai@gmail.com)
+|---|---|---|
+|
 ----
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
