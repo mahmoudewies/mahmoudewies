@@ -45,6 +45,3 @@ Dart        1 hr                █████░░░░░░░░░░░
 
 ⭐️ From @mahmoudewies
 
-نسخ
-تحرير
-
