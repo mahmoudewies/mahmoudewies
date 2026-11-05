@@ -5,7 +5,6 @@
     alt="Mahmoud Ewis - AI Engineer"
   />
 </div>
-# 👾 Mahmoud Ewis — AI Engineer in Progress
 
 <div align="center">
 
