@@ -1,5 +1,3 @@
-<p><b>CONTRIBUTION SPACE SHOOTER</b></p>
-
 <a href="https://github.com/mahmoudewies/gh-space-shooter">
   <img
     src="https://raw.githubusercontent.com/mahmoudewies/gh-space-shooter/main/game.gif"
