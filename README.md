@@ -5,6 +5,8 @@
     alt="Purple GitHub Contribution Space Shooter"
   />
 </a>
+<div align="center">
+
 -----------------
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:100D19,50:542078,100:C084FC&height=190&section=header&text=MAHMOUD%20EWIS&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=43&desc=ENGINEERING%20INTELLIGENCE&descSize=16&descAlignY=68&descColor=D8B4FE" width="100%" />
 
