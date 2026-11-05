@@ -275,11 +275,23 @@ flowchart LR
 
 <div align="center">
 
-<h3>EVERY COMMIT LEAVES A TRACE</h3>
+### EVERY COMMIT LEAVES A TRACE
 
-<img src="https://raw.githubusercontent.com/mahmoudewies/mahmoudewies/output/github-contribution-grid-snake-dark.svg" alt="Mahmoud's GitHub Contribution Snake" width="100%" />
+<p><b>CONTRIBUTION HISTORY</b></p>
 
-<p><sub>Consistency is built one contribution at a time.</sub></p>
+<img src="./assets/lifetime.dark.svg" width="100%" alt="GitHub Contribution History" />
+
+<br/><br/>
+
+<p><b>CONTRIBUTION SNAKE</b></p>
+
+<img src="https://raw.githubusercontent.com/mahmoudewies/mahmoudewies/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+
+<br/>
+
+<b>BUILD. CONTRIBUTE. REPEAT.</b>
+
+<sub>Every contribution is another step toward engineering intelligence.</sub>
 
 </div>
 
