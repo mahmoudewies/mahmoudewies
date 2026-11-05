@@ -253,7 +253,6 @@ flowchart LR
 ```
 
 **The objective:** Build systems that can be tested, served, deployed, monitored, and improved — not just trained.
-
 ## MISSION CONTROL
 
 <div align="center">
@@ -281,8 +280,6 @@ flowchart LR
 <p><sub>Consistency is built one contribution at a time.</sub></p>
 
 </div>
-
----
 
 ## NORTH STAR
 
