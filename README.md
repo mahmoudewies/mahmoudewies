@@ -1,12 +1,12 @@
-<div align="center">
-  <img
-    src="assets/Mahmoud Ewis AI Engineer Banner.png"
-    width="100%"
-    alt="Mahmoud Ewis - AI Engineer"
-  />
-</div>
+<p><b>CONTRIBUTION SPACE SHOOTER</b></p>
 
-<div align="center">
+<a href="https://github.com/mahmoudewies/gh-space-shooter">
+  <img
+    src="https://raw.githubusercontent.com/mahmoudewies/gh-space-shooter/main/game.gif"
+    width="100%"
+    alt="Purple GitHub Contribution Space Shooter"
+  />
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:100D19,50:542078,100:C084FC&height=190&section=header&text=MAHMOUD%20EWIS&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=43&desc=ENGINEERING%20INTELLIGENCE&descSize=16&descAlignY=68&descColor=D8B4FE" width="100%" />
 
