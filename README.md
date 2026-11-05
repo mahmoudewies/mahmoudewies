@@ -1,11 +1,11 @@
 <a href="https://github.com/mahmoudewies/gh-space-shooter">
   <img
-    src="https://raw.githubusercontent.com/mahmoudewies/gh-space-shooter/main/assets/neon-maze.gif"
+    src="https://raw.githubusercontent.com/mahmoudewies/gh-space-shooter/main/game.gif"
     width="100%"
-    alt="NEON MAZE — GitHub Contribution Arcade"
+    alt="Purple GitHub Contribution Space Shooter"
   />
 </a>
-
+-----------------
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:100D19,50:542078,100:C084FC&height=190&section=header&text=MAHMOUD%20EWIS&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=43&desc=ENGINEERING%20INTELLIGENCE&descSize=16&descAlignY=68&descColor=D8B4FE" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Computer+Science+%26+AI+Graduate;Learning.+Building.+Deploying.;Turning+Data+into+Intelligence;Engineering+AI+for+the+Real+World)](https://git.io/typing-svg)
