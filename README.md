@@ -1,154 +1,180 @@
-# 👾 Mahmoud Ewis | AI Engineer in Progress
+# 👾 Mahmoud Ewis — AI Engineer in Progress
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:100D19,50:542078,100:C084FC&height=180&section=header&text=MAHMOUD%20EWIS&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=AI%20ENGINEER%20IN%20PROGRESS&descSize=17&descAlignY=68&descColor=D8B4FE" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:100D19,50:542078,100:C084FC&height=190&section=header&text=MAHMOUD%20EWIS&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=43&desc=ENGINEERING%20INTELLIGENCE&descSize=16&descAlignY=68&descColor=D8B4FE" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Computer+Science+%26+AI+Graduate;Learning+%7C+Building+%7C+Deploying;Turning+Data+into+Intelligence;Engineering+AI+for+the+Real+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Computer+Science+%26+AI+Graduate;Learning.+Building.+Deploying.;Turning+Data+into+Intelligence;Engineering+AI+for+the+Real+World)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/mahmoudewies?style=for-the-badge&logo=github&color=7C3AED&labelColor=100D19)](https://github.com/mahmoudewies)
-[![GitHub stars](https://img.shields.io/github/stars/mahmoudewies?style=for-the-badge&logo=github&color=C084FC&labelColor=100D19)](https://github.com/mahmoudewies?tab=repositories)
-![Profile Views](https://komarev.com/ghpvc/?username=mahmoudewies&style=for-the-badge&color=9333EA&label=PROFILE+VIEWS)
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/mahmoudewies?style=flat-square&logo=github&color=C084FC&labelColor=100D19)](https://github.com/mahmoudewies)
+[![GitHub stars](https://img.shields.io/github/stars/mahmoudewies?style=flat-square&logo=github&color=C084FC&labelColor=100D19)](https://github.com/mahmoudewies?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=mahmoudewies&style=flat-square&color=542078&label=VISITORS)
 
 </div>
 
 ---
 
-## `01 // SYSTEM IDENTITY`
+<div align="center">
+
+### SYSTEM ONLINE
+
+`MAHMOUD.OS` &nbsp; / &nbsp; `PROFILE CONSOLE` &nbsp; / &nbsp; `EGYPT`
+
+</div>
+
+## THE OPERATOR
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Mahmoud Ewis
+
+**AI Engineer in Progress**
+
+Computer Science & Artificial Intelligence Graduate from Benha University.
+
+I focus on building practical AI solutions and understanding the complete engineering lifecycle — from data preparation and model development to API integration, containerization, and deployment.
+
+My philosophy is simple:
+
+**An AI model is only part of the solution. Engineering the complete system is what makes it useful.**
+
+</td>
+<td width="40%" valign="top">
+
+| SYSTEM ATTRIBUTE | VALUE |
+|:---|:---|
+| `IDENTITY` | Mahmoud Ewis |
+| `ROLE` | AI Engineer in Progress |
+| `EDUCATION` | CS & AI |
+| `UNIVERSITY` | Benha University |
+| `LOCATION` | Egypt |
+| `MISSION` | Production AI |
+| `APPROACH` | Learn / Build / Deploy |
+| `STATUS` | <img src="https://img.shields.io/badge/ACTIVE-C084FC?style=flat-square" /> |
+
+</td>
+</tr>
+</table>
 
 ```bash
-┌─────────────────────────────────────────────────────────┐
-│  MAHMOUD@GITHUB:~$ whoami                                │
-└─────────────────────────────────────────────────────────┘
+mahmoud@github:~$ building_intelligence --deploy
 
-  NAME       : Mahmoud Ewis
-  ROLE       : AI Engineer in Progress
-  EDUCATION  : Computer Science & Artificial Intelligence
-  UNIVERSITY : Benha University
-  LOCATION   : Egypt
+[+] Initializing AI Engineering journey...
+[+] Exploring Machine Learning systems...
+[+] Building real-world applications...
+[+] Preparing for production...
 
-  MISSION    : Build intelligent systems that solve
-               real-world problems.
-
-  CURRENTLY  : Learning, experimenting, and engineering
-               my way toward production-ready AI.
+MISSION STATUS: IN PROGRESS
 ```
 
-I'm a Computer Science and Artificial Intelligence graduate from Benha University, passionate about building practical AI solutions.
+## THE ROUTE MAP
 
-My focus is on understanding the complete engineering lifecycle — from data preparation and model development to API integration, containerization, and deployment.
-
-I believe that **an AI model is only part of the solution. Engineering the complete system is what makes it useful.**
-
----
-
-## `02 // DEVELOPER DNA`
-
-| 🧠 Mindset | ⚙️ Approach | 🎯 Direction |
-|---|---|---|
-| Continuous Learning | Project-Based Learning | AI Engineering |
-| Problem Solving | End-to-End Development | Production AI |
-| Experimentation | Building in Public | Real-World Impact |
-
----
-
-## `03 // AI ENGINEERING RAILWAY`
-
-> Every destination starts with a first commit.  
-> This is my learning journey — one station at a time.
+<div align="center">
 
 ### 🚇 THE 90-DAY ENGINEERING EXPRESS
 
+*One destination. Four major stations. Countless commits.*
+
+</div>
+
 ```mermaid
-flowchart TD
-    START(("🚀 START")) --> S1
+flowchart TB
+    A(("🚀 DEPARTURE")) --> B
 
-    subgraph P1["STATION 01 · DAYS 01–30"]
-        S1["01 · PROGRAMMING FOUNDATIONS"]
-        S1A["Python · SQL · Git & GitHub"]
-        S1B["Data Fundamentals · Mathematics"]
-        S1C["Mini Data / ML Project"]
-        S1 --> S1A --> S1B --> S1C
+    subgraph S1["01 / FOUNDATION"]
+        direction TB
+        B["PROGRAMMING FOUNDATIONS"]
+        B1["Python · SQL · Git"]
+        B2["Data Fundamentals · Mathematics"]
+        B3["Mini Data / ML Project"]
+        B --> B1 --> B2 --> B3
     end
 
-    S1C --> S2
+    B3 --> C
 
-    subgraph P2["STATION 02 · DAYS 31–60"]
-        S2["02 · MACHINE LEARNING"]
-        S2A["NumPy · Pandas"]
-        S2B["Scikit-learn · Feature Engineering"]
-        S2C["Model Training & Evaluation"]
-        S2D["End-to-End ML Project"]
-        S2 --> S2A --> S2B --> S2C --> S2D
+    subgraph S2["02 / INTELLIGENCE"]
+        direction TB
+        C["MACHINE LEARNING"]
+        C1["NumPy · Pandas"]
+        C2["Scikit-learn · Feature Engineering"]
+        C3["Training · Evaluation"]
+        C4["End-to-End ML Project"]
+        C --> C1 --> C2 --> C3 --> C4
     end
 
-    S2D --> S3
+    C4 --> D
 
-    subgraph P3["STATION 03 · DAYS 61–75"]
-        S3["03 · DEEP LEARNING"]
-        S3A["Neural Networks"]
-        S3B["PyTorch"]
-        S3C["Deep Learning Project"]
-        S3 --> S3A --> S3B --> S3C
+    subgraph S3["03 / NEURAL SYSTEMS"]
+        direction TB
+        D["DEEP LEARNING"]
+        D1["Neural Networks"]
+        D2["PyTorch"]
+        D3["Deep Learning Project"]
+        D --> D1 --> D2 --> D3
     end
 
-    S3C --> S4
+    D3 --> E
 
-    subgraph P4["STATION 04 · DAYS 76–90"]
-        S4["04 · AI ENGINEERING"]
-        S4A["FastAPI · Docker"]
-        S4B["Deployment · LLM Fundamentals"]
-        S4C["RAG Basics"]
-        S4D["Production-Oriented AI Application"]
-        S4 --> S4A --> S4B --> S4C --> S4D
+    subgraph S4["04 / DEPLOYMENT"]
+        direction TB
+        E["AI ENGINEERING"]
+        E1["FastAPI · Docker"]
+        E2["Deployment · LLM Fundamentals"]
+        E3["RAG Basics"]
+        E4["Production-Oriented AI Application"]
+        E --> E1 --> E2 --> E3 --> E4
     end
 
-    S4D --> DEST(("🏁 AI ENGINEER"))
+    E4 --> F(("🏁 AI ENGINEER"))
 
-    style START fill:#542078,color:#fff,stroke:#C084FC
-    style DEST fill:#542078,color:#fff,stroke:#C084FC
-    style S1 fill:#30134B,color:#fff,stroke:#C084FC
-    style S2 fill:#30134B,color:#fff,stroke:#C084FC
-    style S3 fill:#30134B,color:#fff,stroke:#C084FC
-    style S4 fill:#30134B,color:#fff,stroke:#C084FC
+    style A fill:#542078,color:#fff,stroke:#C084FC
+    style F fill:#542078,color:#fff,stroke:#C084FC
+    style B fill:#30134B,color:#fff,stroke:#C084FC
+    style C fill:#30134B,color:#fff,stroke:#C084FC
+    style D fill:#30134B,color:#fff,stroke:#C084FC
+    style E fill:#30134B,color:#fff,stroke:#C084FC
 ```
 
-### 🚉 Station Progress
+### Station Control
 
-| Station | Learning Focus | Status |
-|---|---|---|
-| 01 | Python, SQL, Git & Foundations | 🟡 In Progress |
-| 02 | Data Analysis & Machine Learning | ⚪ Upcoming |
-| 03 | Deep Learning & PyTorch | ⚪ Upcoming |
-| 04 | APIs, Docker & Deployment | ⚪ Upcoming |
-| 🏁 | AI Engineering | 🎯 Destination |
+| ROUTE | FOCUS | STATUS |
+|:---|:---|:---|
+| `ST-01` | Programming & Foundations | 🟡 In Progress |
+| `ST-02` | Data Analysis & Machine Learning | ⚪ Upcoming |
+| `ST-03` | Deep Learning & PyTorch | ⚪ Upcoming |
+| `ST-04` | AI Engineering & Deployment | ⚪ Upcoming |
+| `DEST` | Production AI Engineering | 🎯 Target |
 
-*Progress statuses will be updated as I complete each milestone.*
+<sub>90-day learning roadmap. Progress will be updated as milestones are completed.</sub>
 
----
-
-## `04 // CURRENT LEARNING TERMINAL`
+## CURRENT TRANSMISSION
 
 ```bash
 mahmoud@learning:~$ cat current_focus.txt
 ```
 
-**Current Focus**
+**NOW / ACTIVELY BUILDING**
+
 - Python programming and problem solving
 - SQL and database fundamentals
 - Git & GitHub workflow
 - Software engineering foundations
 
-**Next Technologies**
+**NEXT / ON THE RADAR**
+
 - NumPy & Pandas
 - Scikit-learn
 - Machine Learning workflows
-- PyTorch and Deep Learning
-- FastAPI and Docker
+- PyTorch & Deep Learning
+- FastAPI & Docker
 
----
+## TECHNOLOGY SIGNALS
 
-## `05 // TECHNOLOGY UNIVERSE`
+*Tools I use, technologies I'm learning, and systems I aim to master.*
 
 <details open>
 <summary><b>🐍 Programming & Foundations</b></summary>
@@ -181,7 +207,7 @@ mahmoud@learning:~$ cat current_focus.txt
 </details>
 
 <details>
-<summary><b>🚀 Backend & Deployment</b></summary>
+<summary><b>⚡ Backend & Deployment</b></summary>
 <br/>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -190,54 +216,83 @@ mahmoud@learning:~$ cat current_focus.txt
 
 </details>
 
-*These technologies represent my learning roadmap and areas of exploration, not a claim of mastery in every tool.*
+<sub>These badges represent my learning roadmap and areas of exploration, not a claim of mastery in every technology.</sub>
 
----
-
-## `06 // PROJECT LAB`
+## PROJECT ARCHIVE
 
 ```bash
-mahmoud@github:~$ ./show_projects.sh
+mahmoud@github:~$ ./show_projects.sh --featured
 ```
 
-I focus on projects that demonstrate more than just model training — I want to understand the entire journey from problem definition to a working application.
+I believe projects should demonstrate engineering thinking, not just model accuracy.
 
-### ⚡ Previous Engineering Work
+### ⚡ VOLTIFY
 
-**Voltify — Smart Home Energy Management**
+**Smart Home Energy Management System**
 
-A mobile-based energy management application combining Flutter, Firebase, Python, and machine learning to help users understand and manage electricity consumption.
+A mobile-based energy management application combining Flutter, Firebase, Python, and Machine Learning.
 
-**Telco Customer Churn Prediction**
+**WHAT IT DOES**
 
-A machine learning project exploring customer churn prediction, feature engineering, model comparison, evaluation, and Streamlit-based deployment.
+- Tracks household electricity consumption.
+- Organizes devices and rooms.
+- Provides consumption insights and budget tracking.
+- Uses machine learning to generate device recommendations.
 
-### 🔬 Upcoming Engineering Missions
-
-- [ ] Data Analysis & ML Foundations Project
-- [ ] End-to-End Machine Learning Pipeline
-- [ ] Deep Learning with PyTorch
-- [ ] AI API with FastAPI
-- [ ] Dockerized AI Application
-- [ ] Deployed LLM / RAG Application
-
-*Public project repositories and live demos will be linked here as they are published.*
+`Flutter` `Dart` `Firebase` `Python` `Machine Learning` `Heroku`
 
 ---
 
-## `07 // ENGINEERING PIPELINE`
+### 📡 TELCO CUSTOMER CHURN
 
-My goal is to build complete AI systems, not isolated notebooks.
+**Customer Churn Prediction & Analysis**
+
+A machine learning project focused on identifying customers at risk of leaving a telecom service.
+
+**ENGINEERING WORK**
+
+- Exploratory Data Analysis.
+- Feature Engineering and preprocessing.
+- Class imbalance handling.
+- Model comparison and evaluation.
+- Stacked model experimentation.
+- Streamlit application deployment.
+- MLflow experiment tracking.
+
+`Python` `Pandas` `Scikit-learn` `XGBoost` `SMOTE` `MLflow` `Streamlit`
+
+---
+
+### 🔬 UPCOMING MISSIONS
+
+| MISSION | OBJECTIVE |
+|:---|:---|
+| Data Foundations | Practical data analysis |
+| ML Pipeline | End-to-end ML workflow |
+| Neural Systems | Deep Learning with PyTorch |
+| AI API | Model serving with FastAPI |
+| Containerization | Dockerized AI application |
+| RAG Application | LLM integration and retrieval |
+
+<sub>Project repositories and live demos will be linked as they become publicly available.</sub>
+
+## THE ENGINEERING PIPELINE
+
+<div align="center">
+
+### FROM RAW DATA TO PRODUCTION
+
+</div>
 
 ```mermaid
 flowchart LR
-    A["📦 Dataset"] --> B["🧹 Preprocessing"]
-    B --> C["🧠 Training"]
-    C --> D["📈 Evaluation"]
-    D --> E["💾 Model"]
+    A["📦 DATA"] --> B["🧹 PREPROCESSING"]
+    B --> C["🧠 TRAINING"]
+    C --> D["📈 EVALUATION"]
+    D --> E["💾 MODEL"]
     E --> F["⚡ API"]
-    F --> G["🐳 Docker"]
-    G --> H["☁️ Deployment"]
+    F --> G["🐳 DOCKER"]
+    G --> H["☁️ DEPLOYMENT"]
 
     style A fill:#30134B,color:#fff,stroke:#C084FC
     style B fill:#30134B,color:#fff,stroke:#C084FC
@@ -249,9 +304,9 @@ flowchart LR
     style H fill:#542078,color:#fff,stroke:#C084FC
 ```
 
----
+**The objective:** Build systems that can be tested, served, deployed, monitored, and improved — not just trained.
 
-## `08 // GITHUB ACTIVITY CENTER`
+## MISSION CONTROL / GITHUB ACTIVITY
 
 <div align="center">
 
@@ -260,25 +315,25 @@ flowchart LR
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mahmoudewies&theme=midnight-purple&hide_border=true&background=100D19&ring=C084FC&fire=FF79C6&currStreakLabel=C084FC" width="70%" />
+<img src="https://streak-stats.demolab.com?user=mahmoudewies&theme=midnight-purple&hide_border=true&background=100D19&ring=C084FC&fire=FF79C6&currStreakLabel=C084FC" width="75%" />
 
 </div>
 
----
-
-## `09 // CONTRIBUTION SPACE`
+## CONTRIBUTION SPACE
 
 <div align="center">
 
-### 🌌 EVERY COMMIT IS A STEP FORWARD
+### 🌌 EVERY COMMIT LEAVES A TRACE
 
 <img src="https://raw.githubusercontent.com/mahmoudewies/mahmoudewies/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+
+<sub>Consistency is built one contribution at a time.</sub>
 
 </div>
 
 ---
 
-## `10 // FUTURE DESTINATION`
+## NORTH STAR
 
 ```bash
 mahmoud@github:~$ cat future_vision.txt
@@ -286,34 +341,44 @@ mahmoud@github:~$ cat future_vision.txt
 
 My long-term goal is to become an AI Engineer capable of:
 
-- Designing and building end-to-end machine learning systems.
+- Designing and building end-to-end Machine Learning systems.
 - Developing scalable AI-powered applications.
 - Working with Deep Learning and modern AI architectures.
 - Integrating LLMs and Retrieval-Augmented Generation.
 - Deploying, monitoring, and maintaining production AI systems.
 - Turning research and ideas into practical engineering solutions.
 
-**The destination is not just knowing AI. It's engineering AI systems that work in the real world.**
+> **The destination is not just knowing AI. It's engineering AI systems that work in the real world.**
 
----
-
-## `11 // CONNECT WITH ME`
+## ESTABLISH CONNECTION
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github)](https://github.com/mahmoudewies)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmoud-ewis-29a527246/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Explore%20My%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mahmudweso)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudewis.ai@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100008224651602)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/wesoo.priv/)
+<a href="https://github.com/mahmoudewies">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/mahmoud-ewis-29a527246/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://www.kaggle.com/mahmoudweso">
+<img src="https://img.shields.io/badge/Kaggle-Explore%20My%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="mailto:mahmoudewis.ai@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100008224651602">
+<img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook" />
+</a>
+<a href="https://www.instagram.com/wesoo.priv/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:542078,100:100D19&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:542078,100:100D19&height=130&section=footer" width="100%" />
 
 **`mahmoud@github:~$ echo "The journey is just getting started."`**
 
-<sub>Built with curiosity, consistency, and a lot of commits. 💜</sub>
+<sub>Designed with curiosity. Built with consistency. Powered by commits. 💜</sub>
 
 </div>
