@@ -60,17 +60,6 @@ My philosophy is simple:
 </tr>
 </table>
 
-```bash
-mahmoud@github:~$ building_intelligence --deploy
-
-[+] Initializing AI Engineering journey...
-[+] Exploring Machine Learning systems...
-[+] Building real-world applications...
-[+] Preparing for production...
-
-MISSION STATUS: IN PROGRESS
-```
-
 ## THE ROUTE MAP
 
 <div align="center">
@@ -153,31 +142,26 @@ flowchart TB
 
 ## CURRENT TRANSMISSION
 
-```bash
-mahmoud@learning:~$ cat current_focus.txt
-```
+<div align="center">
 
-**NOW / ACTIVELY BUILDING**
+**CURRENTLY FOCUSED ON**
 
-- Python programming and problem solving
-- SQL and database fundamentals
-- Git & GitHub workflow
-- Software engineering foundations
+</div>
 
-**NEXT / ON THE RADAR**
-
-- NumPy & Pandas
-- Scikit-learn
-- Machine Learning workflows
-- PyTorch & Deep Learning
-- FastAPI & Docker
+| NOW | NEXT |
+|:---|:---|
+| Python programming | NumPy & Pandas |
+| SQL & databases | Scikit-learn |
+| Git & GitHub | Machine Learning workflows |
+| Software engineering foundations | PyTorch & Deep Learning |
+| Problem solving | FastAPI & Docker |
 
 ## TECHNOLOGY SIGNALS
 
 *Tools I use, technologies I'm learning, and systems I aim to master.*
 
 <details open>
-<summary><b>🐍 Programming & Foundations</b></summary>
+<summary><b>Programming & Foundations</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -188,17 +172,18 @@ mahmoud@learning:~$ cat current_focus.txt
 </details>
 
 <details>
-<summary><b>📊 Data & Machine Learning</b></summary>
+<summary><b>Data & Machine Learning</b></summary>
 <br/>
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>🧠 Deep Learning & AI</b></summary>
+<summary><b>Deep Learning & AI</b></summary>
 <br/>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -207,32 +192,27 @@ mahmoud@learning:~$ cat current_focus.txt
 </details>
 
 <details>
-<summary><b>⚡ Backend & Deployment</b></summary>
+<summary><b>Backend & Deployment</b></summary>
 <br/>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </details>
 
-<sub>These badges represent my learning roadmap and areas of exploration, not a claim of mastery in every technology.</sub>
+<sub>Technology badges represent tools used, currently being learned, or included in my engineering roadmap — not a claim of mastery in every technology.</sub>
 
-## PROJECT ARCHIVE
+## SELECTED BUILDS
 
-```bash
-mahmoud@github:~$ ./show_projects.sh --featured
-```
-
-I believe projects should demonstrate engineering thinking, not just model accuracy.
+*Practical experience from projects that connect software engineering with machine learning.*
 
 ### ⚡ VOLTIFY
 
 **Smart Home Energy Management System**
 
 A mobile-based energy management application combining Flutter, Firebase, Python, and Machine Learning.
-
-**WHAT IT DOES**
 
 - Tracks household electricity consumption.
 - Organizes devices and rooms.
@@ -249,8 +229,6 @@ A mobile-based energy management application combining Flutter, Firebase, Python
 
 A machine learning project focused on identifying customers at risk of leaving a telecom service.
 
-**ENGINEERING WORK**
-
 - Exploratory Data Analysis.
 - Feature Engineering and preprocessing.
 - Class imbalance handling.
@@ -261,20 +239,24 @@ A machine learning project focused on identifying customers at risk of leaving a
 
 `Python` `Pandas` `Scikit-learn` `XGBoost` `SMOTE` `MLflow` `Streamlit`
 
----
+## UPCOMING MISSIONS
 
-### 🔬 UPCOMING MISSIONS
+<div align="center">
 
-| MISSION | OBJECTIVE |
-|:---|:---|
-| Data Foundations | Practical data analysis |
-| ML Pipeline | End-to-end ML workflow |
-| Neural Systems | Deep Learning with PyTorch |
-| AI API | Model serving with FastAPI |
-| Containerization | Dockerized AI application |
-| RAG Application | LLM integration and retrieval |
+*The next systems on my engineering roadmap.*
 
-<sub>Project repositories and live demos will be linked as they become publicly available.</sub>
+</div>
+
+| MISSION | OBJECTIVE | STATUS |
+|:---|:---|:---|
+| Data Foundations | Practical data analysis & visualization | Planned |
+| ML Pipeline | End-to-end machine learning workflow | Upcoming |
+| Neural Systems | Deep Learning with PyTorch | Upcoming |
+| AI API | Model serving with FastAPI | Upcoming |
+| Containerization | Dockerized AI application | Upcoming |
+| RAG Application | LLM integration & retrieval systems | Upcoming |
+
+<sub>Each mission will become a practical project with documented implementation and lessons learned.</sub>
 
 ## THE ENGINEERING PIPELINE
 
@@ -306,16 +288,19 @@ flowchart LR
 
 **The objective:** Build systems that can be tested, served, deployed, monitored, and improved — not just trained.
 
-## MISSION CONTROL / GITHUB ACTIVITY
+## MISSION CONTROL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahmoudewies&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=100D19&title_color=C084FC&icon_color=A78BFA&text_color=E6E1F0&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudewies&layout=compact&theme=midnight-purple&hide_border=true&bg_color=100D19&title_color=C084FC&text_color=E6E1F0" width="49%" />
+### GITHUB ANALYTICS
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoudewies&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=100D19&title_color=C084FC&icon_color=A78BFA&text_color=E6E1F0&rank_icon=github" width="49%" alt="GitHub Statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudewies&layout=compact&theme=midnight-purple&hide_border=true&bg_color=100D19&title_color=C084FC&text_color=E6E1F0" width="49%" alt="Most Used Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mahmoudewies&theme=midnight-purple&hide_border=true&background=100D19&ring=C084FC&fire=FF79C6&currStreakLabel=C084FC" width="75%" />
+<img src="https://streak-stats.demolab.com?user=mahmoudewies&theme=midnight-purple&hide_border=true&background=100D19&ring=C084FC&fire=FF79C6&currStreakLabel=C084FC" width="75%" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -323,21 +308,17 @@ flowchart LR
 
 <div align="center">
 
-### 🌌 EVERY COMMIT LEAVES A TRACE
+<h3>EVERY COMMIT LEAVES A TRACE</h3>
 
-<img src="https://raw.githubusercontent.com/mahmoudewies/mahmoudewies/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/mahmoudewies/mahmoudewies/output/github-contribution-grid-snake-dark.svg" alt="Mahmoud's GitHub Contribution Snake" width="100%" />
 
-<sub>Consistency is built one contribution at a time.</sub>
+<p><sub>Consistency is built one contribution at a time.</sub></p>
 
 </div>
 
 ---
 
 ## NORTH STAR
-
-```bash
-mahmoud@github:~$ cat future_vision.txt
-```
 
 My long-term goal is to become an AI Engineer capable of:
 
@@ -377,7 +358,7 @@ My long-term goal is to become an AI Engineer capable of:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:542078,100:100D19&height=130&section=footer" width="100%" />
 
-**`mahmoud@github:~$ echo "The journey is just getting started."`**
+**The journey is just getting started.**
 
 <sub>Designed with curiosity. Built with consistency. Powered by commits. 💜</sub>
 
