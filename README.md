@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="assets/profile-banner.png"
+    src="assets/Mahmoud Ewis AI Engineer Banner.png"
     width="100%"
     alt="Mahmoud Ewis - AI Engineer"
   />
