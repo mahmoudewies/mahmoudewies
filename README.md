@@ -204,40 +204,6 @@ flowchart TB
 
 <sub>Technology badges represent tools used, currently being learned, or included in my engineering roadmap — not a claim of mastery in every technology.</sub>
 
-## SELECTED BUILDS
-
-*Practical experience from projects that connect software engineering with machine learning.*
-
-### ⚡ VOLTIFY
-
-**Smart Home Energy Management System**
-
-A mobile-based energy management application combining Flutter, Firebase, Python, and Machine Learning.
-
-- Tracks household electricity consumption.
-- Organizes devices and rooms.
-- Provides consumption insights and budget tracking.
-- Uses machine learning to generate device recommendations.
-
-`Flutter` `Dart` `Firebase` `Python` `Machine Learning` `Heroku`
-
----
-
-### 📡 TELCO CUSTOMER CHURN
-
-**Customer Churn Prediction & Analysis**
-
-A machine learning project focused on identifying customers at risk of leaving a telecom service.
-
-- Exploratory Data Analysis.
-- Feature Engineering and preprocessing.
-- Class imbalance handling.
-- Model comparison and evaluation.
-- Stacked model experimentation.
-- Streamlit application deployment.
-- MLflow experiment tracking.
-
-`Python` `Pandas` `Scikit-learn` `XGBoost` `SMOTE` `MLflow` `Streamlit`
 
 ## UPCOMING MISSIONS
 
