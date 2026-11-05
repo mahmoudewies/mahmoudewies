@@ -1,8 +1,8 @@
 <a href="https://github.com/mahmoudewies/gh-space-shooter">
   <img
-    src="https://raw.githubusercontent.com/mahmoudewies/gh-space-shooter/main/game.gif"
+    src="https://raw.githubusercontent.com/mahmoudewies/gh-space-shooter/main/assets/neon-maze.gif"
     width="100%"
-    alt="Purple GitHub Contribution Space Shooter"
+    alt="NEON MAZE — GitHub Contribution Arcade"
   />
 </a>
 
