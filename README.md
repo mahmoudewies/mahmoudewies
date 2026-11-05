@@ -259,13 +259,15 @@ flowchart LR
 
 ### GITHUB ANALYTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahmoudewies&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=100D19&title_color=C084FC&icon_color=A78BFA&text_color=E6E1F0&rank_icon=github" width="49%" alt="GitHub Statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudewies&layout=compact&theme=midnight-purple&hide_border=true&bg_color=100D19&title_color=C084FC&text_color=E6E1F0" width="49%" alt="Most Used Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=mahmoudewies&theme=midnight-purple&hide_border=true&background=100D19&ring=C084FC&fire=FF79C6&currStreakLabel=C084FC" width="75%" alt="GitHub Contribution Streak" />
+<a href="https://devtrack.live/u/mahmoudewies">
+<img src="https://devtrack.live/api/badge/rank?user=mahmoudewies" height="72" alt="DevTrack Rank" />
+</a>
+<a href="https://devtrack.live/u/mahmoudewies">
+<img src="https://devtrack.live/api/badge/streak-shield?user=mahmoudewies" height="72" alt="Coding Streak" />
+</a>
+<a href="https://devtrack.live/u/mahmoudewies">
+<img src="https://devtrack.live/api/badge/commits?user=mahmoudewies" height="72" alt="Monthly Commits" />
+</a>
 
 </div>
 
